@@ -6,6 +6,20 @@ public class Employee {
     byte age;
     char gender;
 
+    //constructor chaining
+    public Employee() {
+        this("Jason", "Momoa", (byte) 42, 'm');
+        System.out.println("Object is getting created in default constructor...");
+    }
+
+    public Employee(String firstName, String lastName, byte age, char gender) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.age = age;
+        this.gender = gender;
+        System.out.println("Object is getting created in overloaded constructor...");
+    }
+
     //methods
     public byte getAge() {
         return age;
