@@ -79,3 +79,5 @@ Q.idea/sonarlint/securityhotspotstore/7/a/7a86513b87c2a978790ef006ae741b44f7bedd
 Q.idea/sonarlint/securityhotspotstore/0/a/0a4495bb6dae41d223ccc7a94102882b3c8f59b3,8\a\8a4754b306f29e3dffa5a53a150aad63e6a4dff8
 
 Q.idea/sonarlint/securityhotspotstore/1/4/144fc53f77986b34275ac7000f6ef4046715006c,e\4\e471453c0924effcbb4d5d1addc38e2c60eb4c3b
+n
+>ClassesMethodsFieldsConstructors/src/ArithmeticOperations.java,6\5\65b123012c02e4edc8a168a2ebb88f5be0747671

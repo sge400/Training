@@ -6,7 +6,7 @@ public class Car {
     int horsePower;
 
     //method(s)
-    public void startCar() {
+    static void startCar() {
         System.out.println("Vehicle started...");
     }
 
