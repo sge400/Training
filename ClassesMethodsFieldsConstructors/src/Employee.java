@@ -3,6 +3,20 @@ public class Employee {
     //fields
     String firstName;
     String lastName;
-    int age;
-    String gender;
+    byte age;
+    char gender;
+
+    //methods
+    public byte getAge() {
+        return age;
+    }
+
+    public char getGender() {
+        return gender;
+    }
+
+    public String getName() {
+        String name = firstName + " " + lastName;
+        return name;
+    }
 }
