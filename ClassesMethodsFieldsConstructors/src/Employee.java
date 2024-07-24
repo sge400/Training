@@ -5,6 +5,7 @@ public class Employee {
     String lastName;
     byte age;
     char gender;
+    static final String EMPLOYER_NAME = "Google";
 
     //constructor chaining
     public Employee() {

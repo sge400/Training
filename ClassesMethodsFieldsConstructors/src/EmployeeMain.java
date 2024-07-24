@@ -14,12 +14,16 @@ public class EmployeeMain {
         System.out.println(employee1.getAge());
         System.out.println(employee1.getGender());
         System.out.println(employee1.getName());
+
         System.out.println(employee2.getAge());
         System.out.println(employee2.getGender());
         System.out.println(employee2.getName());
+
         System.out.println(employee3.getAge());
         System.out.println(employee3.getGender());
         System.out.println(employee3.getName());
+
+        System.out.println(Employee.EMPLOYER_NAME);
 
     }
 }

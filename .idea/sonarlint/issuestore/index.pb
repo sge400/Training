@@ -425,3 +425,5 @@ w
 G.idea/sonarlint/issuestore/7/6/76161436e7dcbc760dc166f534bba3a164020c54,d\e\de7f29ea424fe4719d4ea26485952b07897d9fc7
 w
 G.idea/sonarlint/issuestore/7/9/79a30e8248aff96224267a01f23268cffb02c871,9\9\995a4c64b119964631746f9f988918077d7ac345
+a
+1ClassesMethodsFieldsConstructors/src/CarMain.java,0\3\037810639466703fffe1d4d79998fb4f62d9fee3
