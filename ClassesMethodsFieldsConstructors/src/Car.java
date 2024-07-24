@@ -7,6 +7,13 @@ public class Car {
 
     //constant static fields, constant static variables
     static final byte NO_OF_WHEELS = 4;
+    static byte noOfEngines;
+
+    //static initialization block
+    static {
+        noOfEngines = 1;
+        System.out.println("static block is being executed");
+    }
 
     //instance initialization block
     {
